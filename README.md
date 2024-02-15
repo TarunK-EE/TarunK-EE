@@ -4,7 +4,7 @@
  [LinkedIn](https://www.linkedin.com/in/tarunkuddu/)
 
 ### 👨🏼‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab, py, c,cpp,java&theme=light)](https://skillicons.dev)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
