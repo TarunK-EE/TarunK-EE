@@ -9,8 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
 
 ### ⛏️ Computer-aided design (CAD)
-![image](https://github.com/TarunK-EE/TarunK-EE/assets/129455344/703ee7f1-b11b-4da6-bb3c-e7cb3a123e2d)
-
+<img src="https://github.com/TarunK-EE/TarunK-EE/assets/129455344/703ee7f1-b11b-4da6-bb3c-e7cb3a123e2d" width="80" height="20">
 
 ![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Contributions](https://github.com/mahfoozm/mahfoozm/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
