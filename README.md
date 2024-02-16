@@ -1,4 +1,4 @@
-- trying to learn Robot Operating System (ROS)
+- learning Robot Operating System (ROS)
 
 ### 🔗 Links
  [LinkedIn](https://www.linkedin.com/in/tarunkuddu/)
