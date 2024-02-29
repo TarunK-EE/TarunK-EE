@@ -4,7 +4,7 @@
  [LinkedIn](https://www.linkedin.com/in/tarunkuddu/) | [Resume](https://github.com/TarunK-EE/TarunK-EE/blob/main/Tarun_Kuddu__resume.pdf) 
 
 ### 👨🏼‍💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=matlab,py,c,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=matlab,py,c,cpp,java,adruino)](https://skillicons.dev)
 ### 🛠 Tools and Frameworks
 [![My Skills](https://skillicons.dev/icons?i=linux,vscode,adruino)](https://skillicons.dev)
 
